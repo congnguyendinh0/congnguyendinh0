@@ -16,6 +16,8 @@
 - 📫 How to reach me **congnguyendinh0@gmail.com**
 
 - ⚡ Fun fact **I love to cook :)**
+  
+  <!--START_SECTION:activity-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
