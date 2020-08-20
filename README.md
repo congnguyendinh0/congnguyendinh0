@@ -18,6 +18,9 @@
 - ⚡ Fun fact **I love to cook :)**
   
   <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#156](https://github.com//RobinLinus/snapdrop/issues/156) in [RobinLinus/snapdrop](https://github.com//RobinLinus/snapdrop)
+2. 🗣 Commented on [#1](https://github.com//gatsbyjs/gatsby-de/issues/1) in [gatsbyjs/gatsby-de](https://github.com//gatsbyjs/gatsby-de)
+<!--END_SECTION:activity-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
