@@ -20,6 +20,9 @@
 ### Latest activity
   
   <!--START_SECTION:activity-->
+1. 💪 Opened PR [#17](https://github.com//jamesgeorge007/github-activity-readme/pull/17) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#16](https://github.com//jamesgeorge007/github-activity-readme/issues/16) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
