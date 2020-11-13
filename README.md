@@ -26,7 +26,7 @@
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
-- [𝗔𝗪𝗦 𝗔𝗺𝗽𝗹𝗶𝗳𝘆 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 𝗦𝗻𝗶𝗽𝗽𝗲𝘁, 𝗮𝗻 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗩𝗦𝗖𝗼𝗱𝗲](https://medium.com/@congnguyendinh0/-ace082339ae?source=rss-2cdd4fc874d7------2)
+- [,](https://medium.com/@congnguyendinh0/-ace082339ae?source=rss-2cdd4fc874d7------2)
 - [Flutter installation on MacOs Catalina](https://medium.com/swlh/flutter-installation-on-macos-catalina-dfcbbbec09c9?source=rss-2cdd4fc874d7------2)
 <!-- BLOG-POST-LIST:END -->
 
