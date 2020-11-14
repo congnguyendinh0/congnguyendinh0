@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,Flutter,Swift,React Native,Cyber Security,Gatsby,NodeJS,**
 
-- 📫 How to reach me **congnguyendinh0@gmail.com**
+
 
 - ⚡ Fun fact **I love to cook :)**
 
