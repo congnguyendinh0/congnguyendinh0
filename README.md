@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@congnguyendinh0](https://medium.com/@congnguyendinh0)
 
-- 💬 Ask me about **React,Flutter,Swift,React Native,Cyber Security,Gatsby,NodeJS,**
+- 💬 Ask me about **React,Flutter,Swift,React Native,Cyber Security,Gatsby,NodeJS,DevOps,Docker,Kubernetes**
 
 
 
